@@ -11,7 +11,7 @@ public class Main {
 
         g.init();
         g.start();
-
+        // Alias
     }
 
 }
